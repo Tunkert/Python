@@ -8,3 +8,6 @@ print(my_str.upper())
 
 # capitalize the first letter of the string
 print(my_str.capitalize())
+
+# swap case
+print(my_str.swapcase())
