@@ -1,3 +1,4 @@
+# noinspection PyInterpreter
 my_str = "This is my string"
 
 # Find the length of a string
