@@ -19,6 +19,12 @@ print(names)
 del names[0]
 print(names)
 
+# remove
+names.remove("Chet")
+print(names)
+names.extend(["John", "Sally"])
+print(names)
+
 # insert into a list
 names.insert(2, "Billy")
 print(names)
