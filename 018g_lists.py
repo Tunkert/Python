@@ -18,3 +18,7 @@ print(names)
 # another way - just remove first item of the list
 del names[0]
 print(names)
+
+# insert into a list
+names.insert(2, "Billy")
+print(names)
